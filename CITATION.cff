@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper."
+title: "F1SIXTH: CAD Files for a One-Sixth-Scale Autonomous Driving Research Platform"
+type: software
+authors:
+  - family-names: "Maghsoumi"
+    given-names: "Hossein"
+  - family-names: "Fallah"
+    given-names: "Yaser"
+repository-code: "https://github.com/Hmaghsoumi/F1SIXTH"
+url: "https://github.com/Hmaghsoumi/F1SIXTH"
+license: MIT
+version: 1.0.0
+date-released: 2025-06-18
+keywords:
+  - autonomous driving
+  - small-scale autonomous vehicle
+  - F1SIXTH
+  - robotics
+  - CAD
+  - vehicle testbed
+preferred-citation:
+  type: conference-paper
+  title: "A Small-Scale Robot for Autonomous Driving: Design, Challenges, and Best Practices"
+  authors:
+    - family-names: "Maghsoumi"
+      given-names: "Hossein"
+    - family-names: "Fallah"
+      given-names: "Yaser"
+  collection-title: "2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)"
+  publisher:
+    name: "IEEE"
+  year: 2025
+  start: 1
+  end: 6
+  url: "https://arxiv.org/abs/2506.15870"
