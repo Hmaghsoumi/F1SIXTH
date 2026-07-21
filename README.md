@@ -3,7 +3,7 @@
 A one-sixth-scale autonomous driving research platform based on the
 Traxxas X-Maxx chassis.
 
-This repository provides the CAD files and supplementary materials for
+This repository provides the supplementary materials for
 the paper:
 
 > **A Small-Scale Robot for Autonomous Driving: Design, Challenges, and Best Practices**  
